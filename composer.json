@@ -24,8 +24,8 @@
     },
     "minimum-stability": "stable",
     "autoload": {
-        "psr-0": {
-            "iNonce": "mahdiy/"
+        "psr-4": {
+            "iNonce\\": "src"
         }
     }
 }

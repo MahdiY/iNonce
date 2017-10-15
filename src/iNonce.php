@@ -6,7 +6,7 @@
  * @author MahdiY
  * @since 2017-06-05
  * @copyright MahdiY (MahdiY.IR)
- * @version 1
+ * @version 1.0
  * @license BSD http://www.opensource.org/licenses/bsd-license.php
  */
 

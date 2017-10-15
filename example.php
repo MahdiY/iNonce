@@ -1,6 +1,6 @@
 <?php
 
-include_once( 'iNonce.php' );
+include_once( 'src/iNonce.php' );
 
 use iNonce\iNonce;
 
